@@ -3,6 +3,7 @@
 This project applies different supervised ML models and chooses the one that best fits, to predict which type of drug should be prescribed to a patient, based on their medical attributes.
 
 The dataset used is Drug.xls, which contains patients information and the prescribed drug.
+
 **Features:**
 - Age
 - Sex
